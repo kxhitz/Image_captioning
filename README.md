@@ -4,9 +4,6 @@ This project implements a deep learning model to automatically generate descript
 
 The model is trained on the Flickr8k dataset.
 
-![Sample Prediction](https://i.imgur.com/vHq0k8P.png)
-*(Feel free to replace this image with one of your own generated examples)*
-
 ---
 
 ## Table of Contents
